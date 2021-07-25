@@ -1,5 +1,5 @@
 {
-  "name": "tmoj-models",
+  "name": "@tmoj/tmoj-models",
   "version": "1.0.0",
   "description": "Collections of models used in TMOJ services",
   "author": "tranhieudev23",
