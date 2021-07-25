@@ -1,0 +1,7 @@
+{
+  "name": "tmoj-models",
+  "version": "1.0.0",
+  "description": "Collections of models used in TMOJ services",
+  "author": "tranhieudev23",
+  "license": "MIT"
+}
